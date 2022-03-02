@@ -191,7 +191,7 @@ Con questa ballata suggestiva ed inquietante, dunque, Coleridge intende parlarci
 
 Su un piano più strettamente letterario, invece, l'albatro allude alla condizione dell'artista e alla creazione poetica, diventando così una metafora assai pregnante che verrà apprezzata anche da Charles Baudelaire, autore per l'appunto della poesia L'Albatros. Oppresso da una deludente realtà, il poeta andrebbe alla ricerca della verità nel suo livello più elevato e intelligibile, sopportando sofferenze ed esperienze fuori dall'ordinario, per poi raggiungere un mondo ideale con il potere dell'immaginazione. Così come il marinaio comprende che il suo destino è quello di raccontare le proprie vicende esistenziali, quindi, l'artista ha il compito di divulgare il proprio sapere.
 
-# George Gordon Byron (esponente più rappresentativo del Romanticismo)
+# George Gordon Byron (esponente più rappresentativo del secondo Romanticismo)
 
 George Gordon Noel Byron, sesto barone di Byron, meglio noto come Lord Byron RS (Londra, 22 gennaio 1788 – Missolungi, 19 aprile 1824), è stato un poeta e politico britannico.
 
@@ -229,3 +229,78 @@ Byron viene considerato la prima celebrità in stile moderno: il pubblico venne 
 La figura dell'eroe byroniano pervade la maggior parte dei lavori di Lord Byron, ed egli stesso è considerato la personificazione della figura letteraria che ha creato. Gli studiosi hanno tracciato la storia letteraria dell'eroe byroniano partendo da John Milton, e molti artisti e autori del movimento romantico mostrarono l'influenza di Byron nelle loro opere durante il XIX secolo e oltre, come Charlotte ed Emily Brontë.
 
 L'eroe byroniano è un personaggio idealizzato ma imperfetto, i cui attributi includono: grande talento e passione, avversione per la società e le sue istituzioni, mancanza di rispetto per l'alto rango e i suoi privilegi (sebbene possieda entrambi). Viene inoltre ostacolato nell'amore da vincoli sociali o dalla morte. È un ribelle, talvolta arrogante, spesso condannato all'esilio e tormentato da un passato doloroso. È un uomo presuntuoso o con mancanza di lungimiranza, spesso in preda a comportamenti auto-distruttivi.
+
+# John Keats (secondo Romanticismo)
+
+John Keats (Londra, 31 ottobre 1795 – Roma, 23 febbraio 1821) è stato un poeta britannico, unanimemente considerato uno dei più significativi letterati del Romanticismo.
+
+Nato a Londra in una famiglia d'estrazione modesta, la sua vera vocazione letteraria si sviluppò solo all'età di quindici e sedici anni, quando fece copiose letture che lo avvicinarono a Shakespeare e alla poesia di Edmund Spenser. Lavorò quindi alacremente, fino a quando - prostrato dalla salute declinante - morì a Roma nel 1821, a soli venticinque anni.
+
+Peculiarità della poetica di Keats è la vivace rispondenza alla bellezza della poesia e dell'arte; tra le sue opere principali si possono ricordare il poema di sapore miltoniano Hyperion, The Eve of St. Agnes, La Belle dame sans merci e le numerosissime odi, tutte composte in un brevissimo periodo di pochi anni nel quale Keats si dedicò tutto alla poesia.
+
+## Poetica
+
+Malgrado la morte prematura e le circostanze tanto sfavorevoli - tra l'annus mirabilis e il fatale trapasso a Roma passarono meno di tre anni - Keats è considerato uno dei maggiori esponenti del Romanticismo inglese. L'inadeguatezza della preparazione tecnica e il gusto scarsamente formato non riuscirono ad intaccare il suo genio, che decise di seguire con cieca fiducia, evitando di imitare quei grandi maestri che aveva studiato così avidamente. Fu proprio questa la formula vincente del Keats, che fra tutti i poeti inglesi a lui contemporanei fu forse quello con maggiore temperamento artistico, sempre vigile nel cogliere la bellezza delle cose, e gli aspetti più intimi della sensibilità romantica: pure i suoi conoscenti ebbero modo di ammettere che «nulla gli sfuggiva. Il ronzio di un'ape, vista d'un fiore, lo splendore del sole sembravano far vacillare la sua stessa vita: l'occhio gli si accendeva, gli si colorivano le guance, le labbra gli tremavano».
+
+## Stile
+
+Dal punto di vista stilistico, i versi di John Keats fondono svariate influenze: tra i punti di riferimento più evidenti appaiono l'amico Leigh Hunt e la grande tradizione classica inglese di Spenser, Shakespeare e Milton. Peculiarità dello stile di Keats, assorbite dai succitati poeti, sono l'attento utilizzo dei suoni e un frequente ricorso ad immagini concrete.
+
+Le figure di suono (specie assonanze e suoni vocalici), infatti, abbondano nei versi di Keats, che in questo modo raggiungono un'estrema musicalità e una grande freschezza espressiva: particolare attenzione viene posta sull'utilizzo delle vocali, che secondo il poeta dovrebbero essere impiegate come le note musicali, separando quelle chiuse da quelle aperte. Inoltre, come già accennato, le poesie di Keats evocano gli oggetti nelle sue molteplici qualità, ottenute mediante l'accostamento di diverse sfere sensoriali (vista-olfatto, tatto-vista-olfatto). In questo modo si ottengono delle immagini molto vivide, grazie alle quali non solo si immagina la fisicità dell'oggetto, bensì partecipa alla sua vita intima.
+
+# Percy Bysshe Shelley (marito di Mary Shelley, secondo Romanticismo)
+
+Percy Bysshe Shelley (pronuncia /ˈpɜʳsi ˈbɪʃ ˈʃɛli/; Horsham, 4 agosto 1792 – Viareggio, 8 luglio 1822) è stato un poeta britannico, uno dei più celebri lirici romantici.
+
+È famoso per aver scritto opere da antologia quali Ozymandias, l'Ode al vento occidentale (Ode to the West Wind), A un'allodola (To a Skylark) e La maschera dell'anarchia (The Masque of Anarchy), ma quelli che vengono considerati i suoi capolavori furono i poemi narrativi visionari come il Prometeo liberato (Prometheus Unbound) e l'Adone (Adonais). La vita anticonformista e l'idealismo assoluto di Shelley ne fecero una figura notoria e oggetto di denigrazione per tutta la sua vita. Divenne però l'idolo delle due-tre generazioni successive di poeti (inclusi i grandi vittoriani, Robert Browning, Alfred Tennyson, Dante Gabriel Rossetti, Algernon Swinburne e William Butler Yeats).
+
+Appartenente alla seconda generazione romantica inglese, divenne inoltre famoso per la sua amicizia con i contemporanei John Keats e Lord Byron e, come loro, per la sua morte prematura, avvenuta in giovane età. Shelley, infatti, dopo una vita errabonda, tragica e avventurosa, annegò nel mare di fronte a Lerici, in Italia, all'età di circa trent'anni.
+
+## Poetica
+
+
+Nonostante dichiari il suo aperto ateismo e il suo materialismo, Shelley è in realtà un panteista e un epicureo che sogna un Eden pagano dove non esiste il peccato ma solo gioia e piacere (amori impetuosi, passioni brevi ma travolgenti segnarono il suo percorso di "genio nordico dal cuore latino"); secondo il suo pensiero Dio è tutta la natura e il mondo stesso, l'uno e il tutto riuniti nella memoria della specie, un Dio in marcia con l'umanità: sta ai poeti riprendere là dove altri hanno finito nella stesura di quel poema universale che è la ricerca dell'invisibile attraverso il bello, l'intuizione e l'ispirazione.
+
+Dalla sua formazione classica, dallo studio del greco e del latino, deriva una passione per i miti, che nella sua poesia sono spesso ripresi e ampliati.
+
+Nel Prometeo liberato e nel saggio In difesa della poesia Shelley esorta i poeti a ricercare la parola trasfigurante che può indovinare l'invisibile e ad entrare nel mondo del mistero che può essere rivelato da una parola mai parlata: non è quindi un illuminista come il suo ispiratore Godwin, non è uno scienziato che sperimenta, ma un medium che col linguaggio scopre la verità più recondita.
+
+Shelley è un poeta contraddittorio: nelle sue opere bisogna distinguere la poesia frutto di commozione eloquente da quella composta di versi ideologici e talvolta retorici, a partire da quelli condizionati dalle sue posizioni a favore dell'amore libero e di ogni trasgressione dei principi correnti, contro il lavoro organizzato in fabbrica, contro l'istituzione di una società mercantile e colonialista.
+
+Shelley non è impegnato a costruirsi un'immortalità postuma con la scrittura o le gesta (come accadde per Byron o D'Annunzio), ma è afflitto dalla mortalità dell'uomo, temperata talvolta solo dall'idea secondo la quale ci si può ricongiungere all'Assoluto attraverso la contemplazione e con l'aiuto della filosofia si può tendere all'Uno.
+
+Era un pacifista: La maschera dell'anarchia (nel quale l'anarchia è intesa nel tradizionale significato di caos, e non come libertà dai tiranni) di Shelley, è l'opera che venne definita "forse la prima formulazione moderna del principio di resistenza non violenta". L'ispirazione pacifista porta Shelley a teorizzare una rivolta senza violenza alcuna.
+
+# Jane Austen
+
+Jane Austen (Steventon, 16 dicembre 1775 – Winchester, 18 luglio 1817) è stata una scrittrice britannica, figura di spicco della narrativa neoclassica, e una delle autrici più famose e conosciute del panorama letterario del Regno Unito e mondiale.
+
+# Temi
+
+Pur vivendo nel periodo delle guerre napoleoniche, la Austen non tratta mai nei suoi romanzi gli avvenimenti bellici. Le milizie di passaggio sono sullo sfondo degli eventi a lei più cari: le cerchie ristrette della provincia, le storie d'amore e la vita quotidiana. Con ironia e arguzia illustra i personaggi che popolano la campagna inglese e che influenzano il sogno di felicità matrimoniale delle sue eroine. Le donne sono il fulcro fondamentale di ogni romanzo, facendo di Jane Austen "una delle prime scrittrici a dedicare l'intero suo lavoro all'analisi dell'universo femminile" o, con le parole di Virginia Woolf, "l'artista più perfetta tra le donne".
+
+Ma l'ironia di Jane Austen non risparmia nemmeno le sue eroine, di cui descrive pregi e difetti in maniera implacabile. Attraverso poche battute sarcastiche il lettore inquadra i personaggi senza la necessità di lunghe dissertazioni. Le donne devono possedere virtù come la moderazione e il buon senso che vincono sulla spontaneità e la passione.
+
+La quotidianità diventa un importante soggetto narrativo: le abitudini, i luoghi e le classi sociali sono elementi essenziali per lo svolgimento degli eventi. I paesaggi influenzano i caratteri, la riservata campagna è contrapposta alla corrotta città e ai suoi abitanti contro i quali l'autrice si schiera. L'egoismo dei ricchi (i Ferrars, i Bertram) e l'avidità dei nobili (gli Elliot, Lady Catherine de Bourgh) sono gli ostacoli da superare per raggiungere la felicità.
+
+# Charlotte Brontë
+
+Charlotte Brontë (Thornton, 21 aprile 1816 – Haworth, 31 marzo 1855) è stata una scrittrice britannica dell'età vittoriana, la maggiore delle tre sorelle Brontë, nota soprattutto per il suo romanzo Jane Eyre.
+
+## Jane Eyre
+
+Jane Eyre (originariamente pubblicato col titolo di Jane Eyre: An Autobiography) è un romanzo di formazione della scrittrice inglese Charlotte Brontë, uscito nel 1847 sotto lo pseudonimo di Currer Bell e rivelatosi come il capolavoro della scrittrice inglese.
+
+Il racconto è scritto in forma autobiografica, con la protagonista, Jane Eyre appunto, che si rivolge in modo diretto al "lettore". Lo stile presenta aspetti puntualmente descrittivi dell'ambiente e dei personaggi, insieme all'approfondimento dell'evoluzione della protagonista dal punto di vista emotivo, morale e sentimentale.
+
+Il romanzo narra la storia di Jane Eyre, una bambina orfana che viene cresciuta da alcuni zii. Qui però viene derisa dai suoi cugini e maltrattata dalla zia. L’unico ad amarla è lo zio, che muore prematuramente. La zia pertanto la affida ad una sorta di collegio, dove vengono ospitate tutte bambine senza genitori.
+
+È tenuta a dare una mano e a fare tanti sacrifici, crescendo in fretta, affrontando ogni giorno un’ ambiente difficile e soprattutto la morte della migliore amica, avvenuta per tubercolosi a causa delle pessime condizioni igieniche della struttura. Qui però continua i suoi studi e riesce anche a diventare insegnante.
+
+Da donna indipendente trova un lavoro presso Thornfield Hall, come istitutrice della figlia adottiva di Mr. Rochester, la piccola Adele.
+
+Jane lavora molto bene in questo clima fino all’arrivo di Mr. Rochester, un uomo arrogante che però viene subito colpito dalla ragazza. Egli le chiede la mano ma c’è un segreto nascosto tra quelle mura: l’uomo è già sposato con una tale Bertha Mason, una donna che è diventata pazza e viene tenuta rinchiusa nel castello. Jane quindi scappa, profondamente delusa e decide di andare a vivere presso un ecclesiastico St. John e le sue sorelle. Questi le propone di sposarlo e di andare con lui in missione in India ma Jane rifiuta, perché ancora innamorata di Mr. Rochester.
+
+Torna a Thornfiel Hall e trova uno scenario devastato: il castello era stato bruciato da un incendio, in seguito al quale Bertha era morta e Mr. Rochester aveva perso la vista. Jane e il padrone di casa convolano finalmente a nozze e lui ritrova parzialmente la vista.
+
+
