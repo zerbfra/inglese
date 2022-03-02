@@ -190,3 +190,42 @@ la nave, animata da forze misteriose che la sospingono verso il Polo Sud.
 Con questa ballata suggestiva ed inquietante, dunque, Coleridge intende parlarci della colpa, della sofferenza e della redenzione umana, caricando questi temi di segrete reminiscenze religiose. Secondo diverse interpretazioni, infatti, l'assassinio dell'albatro rappresenta un peccato contro la natura e, pertanto, contro Dio. Per questo motivo il marinaio, divorato dall'angoscia e dalla solitudine, è costretto a scontare le proprie colpe con uno stato temporaneo di espiazione e pena, in rappresentanza del fuoco del Purgatorio. Questa redenzione si conclude nella quarta parte del poema nella quale il marinaio ammira i serpenti marini che circondano la nave in quanto parte della creazione divina; il maleficio così si spezza e l'albatro, prima appeso al suo collo, sprofonda negli abissi.
 
 Su un piano più strettamente letterario, invece, l'albatro allude alla condizione dell'artista e alla creazione poetica, diventando così una metafora assai pregnante che verrà apprezzata anche da Charles Baudelaire, autore per l'appunto della poesia L'Albatros. Oppresso da una deludente realtà, il poeta andrebbe alla ricerca della verità nel suo livello più elevato e intelligibile, sopportando sofferenze ed esperienze fuori dall'ordinario, per poi raggiungere un mondo ideale con il potere dell'immaginazione. Così come il marinaio comprende che il suo destino è quello di raccontare le proprie vicende esistenziali, quindi, l'artista ha il compito di divulgare il proprio sapere.
+
+# George Gordon Byron (esponente più rappresentativo del Romanticismo)
+
+George Gordon Noel Byron, sesto barone di Byron, meglio noto come Lord Byron RS (Londra, 22 gennaio 1788 – Missolungi, 19 aprile 1824), è stato un poeta e politico britannico.
+
+Lettera autografa del 1808 di Lord Byron a John Hanson, suo avvocato e agente
+Considerato da molti uno dei massimi poeti britannici, Byron è stato un uomo di spicco nella cultura del Regno Unito durante il secondo Romanticismo, del quale è stato l'esponente più rappresentativo insieme con John Keats e Percy Bysshe Shelley.
+
+La sua unica figlia legittima, Ada Lovelace, è considerata una figura fondamentale nel campo della programmazione di computer in base ai suoi appunti per Analytical Engine di Charles Babbage.
+
+## Vita
+
+George Gordon Byron proveniva, dal lato paterno, da un'illustre famiglia normanna, i Burun, insediatasi in Inghilterra nell'XI secolo
+
+Afflitto da una contrazione del tendine di Achille che lo rese zoppo sin dalla nascita, il giovane George Gordon trascorse i primi anni di vita in Scozia, nella dimora della madre, ad Aberdeen, a causa degli enormi debiti accumulati dal padre. Ad Aberdeen il poeta dovette risentire sia delle ristrettezze economiche sia dei continui strapazzi materni: ciò malgrado, fu proprio in questo periodo che nacque in lui l'ammirazione per l'aspro paesaggio montano scozzese, un'appassionata devozione per l'Antico Testamento e la credenza, legata al calvinista John Knox, nella predestinazione della colpa.
+
+Occupato nel 1809 il seggio a lui spettante presso la Camera dei lord, nell'estate del 1809 Byron intraprese il Grand Tour, quasi d'obbligo allora per le persone del gran mondo (viaggio pazzesco passando per lisbona, malta ecc).
+Nel luglio 1811 Lord Byron fece ritorno in patria, vivendo fra Newstead Abbey e soprattutto Londra.
+
+Nel 1812 ubblicò i primi due canti del Childe Harold's Pilgrimage, una sorta di guida poetica dei paesi visitati, che al loro apparire conobbero subito uno sfolgorante successo: questa favorevolissima ricezione dell'opera fu dovuta in buona parte alle qualità poetiche di Byron, ma soprattutto alla felice scelta dell'argomento, riuscendo a trasportare in poesia il tema dei viaggi, allora molto popolare.
+
+Oltre alla descrizione del viaggio, a destare curiosità vi era anche la descrizione del viaggiatore, quel «giovane Aroldo» sprezzante e misantropo che impersonifica gli atteggiamenti del Byron stesso; ma furono anche le vivide evocazioni dei luoghi del Levante, i versi scorrevoli, il misto di luoghi comuni e di licenziose avventure a far impressione sul gusto delle dame e dei salotti della Reggenza. Il successo del Childe Harold fu tale che tra il giugno del 1813 e l'agosto del 1814 Byron produsse con notevole continuità una cospicua mole di novelle orientali in versi, chiamate «racconti turchi» (The Giaour, The Bride of Abydos, The Corsair, Lara, The Siege of Corinth e Parisina) a un ritmo incalzante quasi come i successi bellici che Napoleone Bonaparte andava riscuotendo in quel tempo: non a caso, il poeta fu sovente paragonato al generalissimo, iniziando a divenire noto nei salotti londinesi come «il gran Napoleone dei reami della rima». Queste sue opere, tutte improntate a un intreccio tra l'esotismo e il melodramma romantico, furono inoltre lievito per quel mito byroniano che sarà fondamentale per la fortuna del poeta d'ora innanzi: il Giaurro, Corrado, Lara, erano infatti ripetizioni del tipo d'Aroldo e - essendo quest'ultimo un'autobiografia idealizzata del Byron - furono in molti ad attribuire le avventure dei protagonisti al fortunato scrittore.
+
+Folgorato dal successo, in questo periodo Byron iniziò a manifestare ancor di più un atteggiamento freddo e sprezzante, con una raffinata sobrietà del vestire, incarnando squisitamente gli ideali del dandy, fusi a quelli del bel tenebroso. Fu anche grazie a questa sua innata attitudine da poseur che il poeta iniziò a essere ammesso da pari nel gran mondo, intraprendendo anche gaudenti e intriganti avventure amorose.
+
+Byron si separa dalla moglie e parte per l'Europa il 25 aprile 1816.
+Finisce a Givevra e incontra gli Shelley.
+Al contatto con la delicata sensibilità per le bellezze della natura di Percy Bysshe Shelley, e stimolato ciascuno dal genio degli altri, Byron compose in questo ambiente il terzo canto di Childe Harold, il Prisoner of Chillon, The Dream, i primi due atti del Manfred, e Darkness. I frutti poetici di tanto arricchimento si manifestarono anche in Mary Shelley, che qui iniziò a redigere il suo romanzo Frankenstein, e in Polidori, che sotto l'influenza di Byron concepì The Vampyre.
+
+Si trasferisce poi in Italia, a Ravenna e poi in Grecia, dove muore.
+## Influenza culturale
+
+Byron viene considerato la prima celebrità in stile moderno: il pubblico venne affascinato dalla sua immagine come personificazione dell'«eroe byroniano», e sua moglie Annabella coniò addirittura l'espressione «Byronmania» in riferimento all'attenzione posta a suo marito. La sua consapevolezza di sé e la promozione della sua stessa immagine lo indussero a commissionare ritratti ad artisti, chiedendo loro di ritrarlo non come un poeta con libro e penna in mano, ma come un uomo d'azione. Mentre all'inizio il poeta accolse la sua fama, egli poi l'allontanò, cercando di esiliarsi dalla sua patria, la Gran Bretagna.
+
+## Eroe byroniano
+
+La figura dell'eroe byroniano pervade la maggior parte dei lavori di Lord Byron, ed egli stesso è considerato la personificazione della figura letteraria che ha creato. Gli studiosi hanno tracciato la storia letteraria dell'eroe byroniano partendo da John Milton, e molti artisti e autori del movimento romantico mostrarono l'influenza di Byron nelle loro opere durante il XIX secolo e oltre, come Charlotte ed Emily Brontë.
+
+L'eroe byroniano è un personaggio idealizzato ma imperfetto, i cui attributi includono: grande talento e passione, avversione per la società e le sue istituzioni, mancanza di rispetto per l'alto rango e i suoi privilegi (sebbene possieda entrambi). Viene inoltre ostacolato nell'amore da vincoli sociali o dalla morte. È un ribelle, talvolta arrogante, spesso condannato all'esilio e tormentato da un passato doloroso. È un uomo presuntuoso o con mancanza di lungimiranza, spesso in preda a comportamenti auto-distruttivi.
