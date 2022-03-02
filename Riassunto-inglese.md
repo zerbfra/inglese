@@ -327,3 +327,20 @@ L'analisi stevensoniana parte infatti dalla constatazione di una diuturna confli
 
 Jekyll isola la parte cattiva (Hyde) da quella buona (Jekyll), permettendo in tal modo che una sola persona potesse seguire due strade completamente opposte, e realizzarsi in entrambe, che ambedue le parti che sentiva ambivalentemente sue potessero esprimersi. La storia narra infatti delle nequizie, delle infamie e dei delitti commessi dall'alter ego dello stimatissimo dottor Jekyll, uomo rispettato all'interno della moralissima società vittoriana sia per il suo nobile lavoro sia per la sua invidiabile condotta morale, che, osando faustianamente e inavvertitamente sfidare la natura e le sue leggi, ha sentenziato e deciso la propria condanna e la propria fine. Mr. Hyde si configura come un essere spietato, primordiale, a tratti quasi meccanico, emblema del demonio e della scelleratezza umana.
 
+# Walt Whitman
+
+Walter Whitman, noto come Walt Whitman (/ˈhwɪtmən/; West Hills, 31 maggio 1819 – Camden, 26 marzo 1892), è stato un poeta, scrittore e giornalista statunitense. Considerato il padre della poesia americana[1][2], è stato il primo poeta moderno ad utilizzare comunemente il verso libero, di cui è considerato in un certo senso l'inventore[3][4]. La sua opera più famosa, la raccolta poetica Foglie d'erba, pubblicata in diverse edizioni a partire dal 1855, è considerata un classico della letteratura, così come la sua celeberrima poesia O capitano! Mio capitano!
+
+## O Captain! My Captain!
+
+O Captain! My Captain! è una poesia scritta dal poeta statunitense Walt Whitman dopo la morte del presidente statunitense Abraham Lincoln, avvenuta il 15 aprile 1865. È una delle quattro poesie scritte da Whitman sulla morte di Lincoln.
+
+Durante la guerra civile americana, Whitman si trasferì a Washington, dove lavorò per il governo e come volontario negli ospedali. Nonostante non avesse mai conosciuto Lincoln, sentì un legame verso di lui e fu commosso dal suo assassinio.
+
+A causa del suo flusso simile a quella di una canzone, della sua rima e della metafora “barca stato”, la poesia non è caratteristica dello stile di Whitman. Questi elementi hanno contribuito ad un’iniziale accoglienza positiva e alla sua popolarità, considerandola come una delle più grandi poesie americane. Le critiche sono cambiate quando nel ventesimo secolo degli studiosi l’hanno definita convenzionale e non originale.
+
+La poesia ha immagini relative al mare dappertutto. Genoways considera il miglior “giro di frase” nella poesia la linea 12, dove Whitman descrive una “massa ondeggiante”, evocativa sia di un funerale sia di un servizio religioso.
+La poesia descrive gli Stati Uniti come una nave (metafora).
+
+“My Captain” inizia descrivendo Lincoln come il capitano della nazione. Alla fine della prima strofa, Lincoln diventata il “capo padre” d’America quando la sua morte è rivelata (“caduto freddo e morto”).
+
