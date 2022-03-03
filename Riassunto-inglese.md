@@ -442,7 +442,7 @@ I temi affrontati ne Il vecchio e il mare sono i temi prediletti dall'autore:
 - L'incombere della morte (il tema è presente in tutta l'opera di Hemingway).
 
 
-#### Stile
+#### Stile
 
 Lo stile che Hemingway si era costruito in lunghi anni di lavoro del giornalista è lo specchio del suo modo di vivere e di concepire la vita: antiretorico, rigoroso, sintetico. [1] Caratteri distintivi:
 
@@ -453,14 +453,14 @@ Lo stile che Hemingway si era costruito in lunghi anni di lavoro del giornalista
 - ritmo narrativo lento.
 
 
-## War Poets
+## War Poets (UK)
 
 I Poeti di Guerra (War Poets) inglesi hanno abbandonato i canoni della poesia del XIX Secolo per esprimere attraverso i loro componimenti opinioni, esperienza, stati d'animo riguardanti la Prima Guerra Mondiale.
 Questa categoria di poeti si suddivide in due gruppi: il primo, rappresentato da Rupert Brooke (The Soldier), si impegnava a celebrare il patriottismo e la guerra come atto eroico, mentre il secondo, rappresentato da Wilfred Owen (Dulce et Decorum est) denunciava pesantemente gli orrori della guerra e l'inganno della propaganda.
 
 La novità della poesia di guerra della Prima guerra mondiale consisteva nell’essere opera di poeti soldati, che hanno sperimentato la guerra in prima persona, rimanendo personalmente colpiti dai suoi orrori. Alcuni dei poeti soldati sopravvissero al conflitto, ma rimasero psicologicamente e fisicamente segnati perilresto della loro vita (Siegfried Sassoon scrisse, nel 1962, Ilrancido tanfo di quei corpi ancora oggi mi perseguita), mentre altri morirono in trincea (come Wilfred Owen).
 
-### The Soldier (Ruper Brooke)
+### The Soldier (Ruper Brooke)
 
 Rupert Brooke (1887-1915) era già un poeta ben affermato agli inizi della guerra ed uno dei principali esponenti della cosiddetta “poesia georgiana”, allora assai apprezzato ma oggi considerato un minore e di ridotta importanza letteraria. Brooke si fece travolgere dall’entusiasmo per una guerra che, si pensava, sarebbe stata breve, indolore e lampante, e con uno stile piuttosto toccante e sentimentale mirò a glorificare la guerra e le nozioni romantiche del sacrificio e dell’eroismo.
 
