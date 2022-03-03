@@ -327,7 +327,7 @@ L'analisi stevensoniana parte infatti dalla constatazione di una diuturna confli
 
 Jekyll isola la parte cattiva (Hyde) da quella buona (Jekyll), permettendo in tal modo che una sola persona potesse seguire due strade completamente opposte, e realizzarsi in entrambe, che ambedue le parti che sentiva ambivalentemente sue potessero esprimersi. La storia narra infatti delle nequizie, delle infamie e dei delitti commessi dall'alter ego dello stimatissimo dottor Jekyll, uomo rispettato all'interno della moralissima società vittoriana sia per il suo nobile lavoro sia per la sua invidiabile condotta morale, che, osando faustianamente e inavvertitamente sfidare la natura e le sue leggi, ha sentenziato e deciso la propria condanna e la propria fine. Mr. Hyde si configura come un essere spietato, primordiale, a tratti quasi meccanico, emblema del demonio e della scelleratezza umana.
 
-# Walt Whitman
+# Walt Whitman (USA)
 
 Walter Whitman, noto come Walt Whitman (/ˈhwɪtmən/; West Hills, 31 maggio 1819 – Camden, 26 marzo 1892), è stato un poeta, scrittore e giornalista statunitense. Considerato il padre della poesia americana[1][2], è stato il primo poeta moderno ad utilizzare comunemente il verso libero, di cui è considerato in un certo senso l'inventore[3][4]. La sua opera più famosa, la raccolta poetica Foglie d'erba, pubblicata in diverse edizioni a partire dal 1855, è considerata un classico della letteratura, così come la sua celeberrima poesia O capitano! Mio capitano!
 
@@ -343,4 +343,55 @@ La poesia ha immagini relative al mare dappertutto. Genoways considera il miglio
 La poesia descrive gli Stati Uniti come una nave (metafora).
 
 “My Captain” inizia descrivendo Lincoln come il capitano della nazione. Alla fine della prima strofa, Lincoln diventata il “capo padre” d’America quando la sua morte è rivelata (“caduto freddo e morto”).
+
+# Herman Melville (USA)
+
+Herman Melville (New York, 1º agosto 1819 – New York, 28 settembre 1891) è stato uno scrittore, poeta e critico letterario statunitense, autore nel 1851 del romanzo Moby Dick, considerato uno dei capolavori della letteratura americana.
+
+Nasce ricco (padre ricco commerciante) e poi finisce male perchè il padre ha un tracollo finanziario.
+
+## Moby Dick
+
+Moby Dick o La balena (Moby-Dick; or, The Whale) è un romanzo del 1851.
+La storia è quella della nave condannata ad essere affondata da una balena bianca: il viaggio della baleniera Pequod, comandata dal capitano Achab, a caccia di balene e capodogli, e in particolare dell'enorme balena bianca (in realtà un capodoglio) che dà il titolo al romanzo, verso la quale Achab nutre una smisurata sete di vendetta.
+
+Sul modello dell'opera settecentesca Tristram Shandy di Laurence Sterne, demistificatore del romanzo, genere letterario più in voga ai suoi tempi, anche l'opera di Melville vuole essere fuori dagli schemi tradizionali narrativi: il contenuto enciclopedico e allo stesso tempo fortemente digressivo richiede che la lettura sia accompagnata dall'interpretazione, in quanto l'autore utilizza un gran numero di citazioni di storie epiche, shakespeariane, bibliche che rendono Melville quasi un precursore del modernismo, come quello in particolare di James Joyce.
+
+In Moby Dick oltre alle scene di caccia alla balena, si affronta il dilemma dell'ignoto, del senso di speranza, della possibilità di riscattarsi che si può presentare da un momento all'altro. Alla paura e al terrore e alle tenebre, si affiancano lo stupore, la diversità, le emozioni che convivono insieme in questo romanzo di avventure: interiorizzando tutte le questioni, Melville vi profuse riflessioni scientifiche, religiose, filosofiche - il dibattito sui limiti umani, sulla verità e la giustizia - e artistiche del narratore Ismaele, suo alter ego e una delle voci più grandi della letteratura mondiale, che trasforma il viaggio in un'allegoria della condizione della natura umana e al contempo in una parabola avvincente dell'imprudente espansione della giovane repubblica americana.
+Per il puritano Melville la lotta epica tra Achab e la balena rappresenta una sfida tra il Bene e il Male. Moby Dick riassume, inoltre, il Male dell'universo e il demoniaco presente nell'animo umano. Achab ha l'idea fissa di vendicarsi della balena che lo ha mutilato e a ciò si unisce una furia autodistruttiva.
+Ma la balena rappresenta anche l'Assoluto che l'uomo insegue e non può conoscere mai.
+Quanto alla rappresentazione nel romanzo della natura, essa è un'entità tremenda e fascinosa (il mare, gli abissi) e può essere vista come esempio di Sublime romantico: lo spruzzo intermittente della balena è come un soffio potente per cui i marinai «non avrebbero potuto rabbrividire di più, eppure non provavano terrore, ma piuttosto un piacere....».
+
+# Emily Dickinson (USA)
+
+Emily Elizabeth Dickinson nota come Emily Dickinson (Amherst, 10 dicembre 1830 – Amherst, 15 maggio 1886) è stata una poetessa statunitense, considerata tra i maggiori lirici moderni. Famiglia borghese di tradizioni puritane.
+
+Emily Dickinson trascorse la maggior parte della propria vita nella casa dove era nata con rari intermezzi costituiti da visite ai parenti di Boston, di Cambridge e nel Connecticut. La giovane donna amava la natura, ma era ossessionata dalla morte. A partire dal 1865 iniziò a vestirsi solo di bianco, in segno di purezza, rifiutando il matrimonio.
+
+Durante gli anni 1850, la relazione più forte e più affettuosa di Emily Dickinson era con sua cognata, Susan Gilbert: in tutta la sua vita le ha inviato oltre trecento lettere, più che a qualsiasi altro corrispondente, nel corso della loro relazione. Molti studiosi interpretano la relazione tra Emily e Susan come una relazione romantica.
+Nelle sue lettere, Emily ha paragonato il suo amore per Susan all'amore di Dante per Beatrice, a quello di Jonathan Swift per Stella e a quello di Mirabeau per Sophie de Ruffey.
+
+## Poetica
+
+Il linguaggio di Emily Dickinson è semplice e brillante, sia in poesia, sia in prosa.
+
+Alcune caratteristiche delle sue opere, all'epoca ritenute inusuali, sono ora molto apprezzate dalla critica e considerate aspetti particolari e inconfondibili del suo stile. Le digressioni enfatiche, l'uso poco convenzionale delle maiuscole, le lineette telegrafiche, i ritmi salmodianti, le rime asimmetriche, le voci multiple e le elaborate metafore, occasionalmente anche criptiche, sono diventati marchi di riconoscimento per i lettori che anno dopo anno l'hanno apprezzata e tradotta.
+
+L'opera poetica di Dickinson è incentrata sui temi della natura, dell'amore e della morte, e sulla riflessione sul senso della vita. Nell'insieme, le sue liriche racchiudono una profonda angoscia esistenziale espressa con magistrale limpidezza di linguaggio.
+
+Gran parte della sua produzione poetica riflette e coglie non solo i piccoli momenti di vita quotidiana, ma anche i temi e le battaglie più importanti che coinvolgevano il resto della società. Per esempio, più della metà delle sue poesie fu scritta durante gli anni della guerra di secessione americana.
+
+Il suo amore per la natura (per la neve, gli alberi, l'acqua, gli uccelli) traspare in tutte le sue poesie.
+
+Altro tema molto ricorrente è la morte, per esempio in Tie the Strings to my Life, My Lord (Annoda i lacci alla mia vita, Signore):
+
+# Ernest Hemingway (USA)
+
+
+
+
+
+
+
+
 
