@@ -387,6 +387,92 @@ Altro tema molto ricorrente è la morte, per esempio in Tie the Strings to my Li
 
 # Ernest Hemingway (USA)
 
+Ernest Miller Hemingway (Oak Park, 21 luglio 1899 – Ketchum, 2 luglio 1961) è stato uno scrittore e giornalista statunitense. È stato un autore di romanzi e di racconti.
+
+
+Firma di Hemingway
+Soprannominato Papa, fece parte della comunità di espatriati americani a Parigi durante gli anni 1920, conosciuta come "la Generazione perduta" e da lui stesso così chiamata nel suo libro di memorie Festa mobile, ispirato da una frase di Gertrude Stein. Condusse una vita sociale turbolenta, si sposò quattro volte e gli furono attribuite varie relazioni sentimentali. Raggiunse già in vita una non comune popolarità e fama che lo elevarono a mito delle nuove generazioni. Hemingway ricevette il Premio Pulitzer nel 1953 per Il vecchio e il mare e vinse il premio Nobel per la letteratura nel 1954.
+
+Lo stile letterario di Hemingway, caratterizzato dall'essenzialità e asciuttezza paratattiche (paratassi = costruzione del periodo basata soprattutto su proposizioni coordinate - Di solito si parla di paratassi quando il periodo è costruito solo con frasi principali (indipendenti). Si può però considerare paratattico anche un periodo in cui da una principale dipendano diverse subordinate dello stesso ordine coordinate tra loro) del linguaggio, e dall'Understatement, ebbe una significativa influenza sullo sviluppo del romanzo nel XX secolo. I suoi protagonisti sono tipicamente uomini dall'indole stoica, i quali vengono chiamati a mostrare "grazia" in situazioni di disagio (grace under pressure). Molte delle sue opere sono considerate pietre miliari della letteratura statunitense.
+
+## Cos'è l'understatement
+
+Understatement è un termine della lingua inglese, che indica una figura retorica che consiste nello sminuire il peso o la gravità di un certo fatto oltre i limiti della verosimiglianza, in modo ironico o per creare un effetto di comicità che nasce dal paradosso.
+
+## Biografia
+
+Ernest Hemingway nasce a Oak Park negli Stati Uniti da un medico incaricato di svolgere la propria attività nelle riserve indiane e segue spesso il padre nei villaggi dei pellirosse. Dal padre apprende anche la passione per la caccia e la pesca, di cui parla spesso nella sua opera.
+Divenuto giornalista, partecipa come volontario alla prima guerra mondiale sul fronte italiano e viene gravemente ferito. Negli anni venti viaggia per l'Europa e vive soprattutto a Parigi. In quegli anni pubblica i suoi primi romanzi di successo in cui ricorrono i temi legati all'esperienza della guerra e, più in generale, del rischio, del coraggio, della violenza.
+Presente come giornalista nella guerra civile spagnola (1936-39) scrive nel 1940, ispirandosi a quelle vicende, il romanzo Per chi suona la campana. Insignito nel 1954 del Nobel per la letteratura, trascorre i suoi ultimi anni a Venezia e a Cuba, per rientrare negli Stati Uniti poco prima della morte. Considerato uno dei più grandi scrittori americani del Novecento, il suo stile narrativo, fatto soprattutto di dialoghi asciutti, permette al lettore di vivere la vicenda quasi come testimone diretto.
+Tra le opere maggiori ricordiamo Fiesta (1926), Addio alle armi (1929), Il vecchio e il mare (1952) e I 49 racconti.
+
+
+## 1929 - A Farewell to Arms (Addio alle armi)
+
+Il romanzo A Farewell to Arms (Addio alle armi), ispirato dalla traumatica esperienza di Hemingway durante la prima guerra mondiale, fu pubblicato da Scribner's a New York il 27 settembre 1929.
+
+Addio alle armi (A Farewell to Arms) è un romanzo dello scrittore statunitense Ernest Hemingway, pubblicato nel 1929.
+
+Il romanzo, in parte basato su esperienze personali dello scrittore (che negli ultimi mesi della grande guerra aveva prestato servizio come conducente di ambulanza nella Croce Rossa Americana, era stato ferito e aveva avuto un rapporto affettivo con una infermiera americana, Agnes von Kurowsky), racconta una storia di amore e di guerra che si svolge in Italia prima, durante e dopo la battaglia di Caporetto. Si tratta di uno dei romanzi più significativi, oltre che di successo, dell'intero Novecento.
+
+### Trama
+
+Frederic Henry è un giovane americano giunto in Italia come volontario per partecipare alla grande guerra. Durante il conflitto svolge l'attività di comandante di una sezione di ambulanze, con il grado di Sottotenente, trasportando i feriti dal fronte fino all'ospedale da campo più vicino dove scopre che la realtà della guerra è molto meno affascinante di ciò che pensava.
+
+Nell'estate del 1917 Frederic, ricoverato all'Ospedale Maggiore di Milano in seguito ad una ferita, approfondisce la conoscenza di una giovane infermiera inglese, Catherine Barkley (già incontrata in precedenza presso un ospedale da campo). Fra i due nasce un rapporto che dapprima sembra occasionale ma si fa rapidamente intenso e passionale. Nel frattempo l'americano inizia a cogliere anche i primi segnali di stanchezza e di sfiducia fra i suoi commilitoni italiani: la guerra va avanti già da due anni, centinaia di migliaia di soldati sono morti e la vittoria è ancora lontana, nonostante la propaganda. Frederic in una conversazione con gli altri autisti del suo gruppo, scopre anche che non tutti gli italiani sono a favore della guerra.
+
+Il 24 ottobre del 1917 il fronte italiano crolla a Caporetto. Il gruppo di ambulanze (tra le quali si trova lo stesso Frederic assieme ad altri chauffeurs) si ritrova travolto dalla massa di soldati in caotica ritirata, tanto che gli autisti si vedono costretti ad abbandonare i mezzi. Affrontano diversi incidenti, fra cui l'incontro con soldati ammutinati e soldati tedeschi in rapida avanzata fra le ormai sbandate linee italiane. Al momento di attraversare in ritirata un ponte sul fiume Tagliamento Frederic, come tutti gli altri ufficiali trovatisi non al comando delle rispettive unità, viene fermato dalla polizia militare dell'arma dei carabinieri che aveva l'ordine di interrogare e fucilare sul posto gli ufficiali sbandati e ritenuti disertori. Si salva rocambolescamente tuffandosi nel fiume riuscendo poi a raggiungere Catherine a Stresa tra varie avventure, ma i due sono costretti a lasciare l'Italia poiché la polizia militare è sulle tracce di Frederic e sta per arrestarlo. Dopo una fortunosa traversata notturna del Lago Maggiore la coppia riesce a raggiungere la sponda svizzera del lago; è una felicità che però sarà purtroppo di breve durata: Catherine, che era incinta, muore infatti in un ospedale di Losanna durante il parto e il figlio di Frederic nasce morto. Il protagonista si ritroverà perciò solo e senza più una meta nel mesto finale del romanzo, vagando amareggiato per la città.
+
+
+## 1951 - The Old Man and the Sea
+
+Il vecchio e il mare (The Old Man and the Sea) è un breve romanzo dello scrittore americano Ernest Hemingway. Ultima grande opera narrativa pubblicata in vita, fu premiata nel 1953 col Premio Pulitzer e contribuì a fargli ottenere il Premio Nobel per la letteratura nel 1954, venendo citato tra le motivazioni del comitato selezionatore. La storia è semplice ma densa di evidenti simbologie: un giorno Santiago, un vecchio pescatore cubano, dopo una lotta furiosa in mare aperto, pesca il pesce più grande della sua vita; cerca poi di portarlo verso il porto, ma gli squali poco a poco spolpano e divorano il suo gigantesco marlin. L'uomo, così, torna indietro con soltanto un'enorme lisca.
+
+### Trama
+
+Santiago è un vecchio pescatore che da 84 giorni non riesce a pescare neanche un pesce. Durante i primi 40 giorni è stato aiutato da un ragazzo di nome Manolìn, fino a quando i suoi genitori hanno deciso che il vecchio è troppo sfortunato e hanno imposto al figlio di non pescare più con lui. Un giorno Santiago, uscito in mare da solo, riesce a catturare un gigantesco marlin, che trascina la sua barca per due giorni e tre notti, finché il vecchio non riesce ad ucciderlo. Nel tragitto per tornare al porto, la preda viene divorata dagli squali, e Santiago torna a casa sconfortato da questa avventura. Manolin corre in suo soccorso e promette al vecchio marinaio che sarebbe tornato a pescare con lui.
+
+#### Temi
+
+I temi affrontati ne Il vecchio e il mare sono i temi prediletti dall'autore:
+
+- Il coraggio e la tenacia dell'uomo;
+- La vita come sfida al destino (in questa breve storia di un vecchio che lotta con un pesce spada c'è tutta l'epica di Hemingway: alcuni critici lo hanno definito il suo Moby Dick);
+- Il tema della fusione dell'uomo con la natura (durante tutto il racconto il vecchio è animato da un rispetto profondissimo per quel pesce nella sua lotta contro la determinazione del pescatore);
+- L'incombere della morte (il tema è presente in tutta l'opera di Hemingway).
+
+
+#### Stile
+
+Lo stile che Hemingway si era costruito in lunghi anni di lavoro del giornalista è lo specchio del suo modo di vivere e di concepire la vita: antiretorico, rigoroso, sintetico. [1] Caratteri distintivi:
+
+- puntualità lessicale: i gesti della pesca sono descritti con precisione tecnica e conoscenza professionale;
+- chiarezza e essenzialità del periodare: il fraseggio è breve, prevale la coordinazione;
+- aggettivazione scarna e limitata;
+- dialoghi frequenti ripresi in diretta, vicini al parlato;
+- ritmo narrativo lento.
+
+
+## War Poets
+
+I Poeti di Guerra (War Poets) inglesi hanno abbandonato i canoni della poesia del XIX Secolo per esprimere attraverso i loro componimenti opinioni, esperienza, stati d'animo riguardanti la Prima Guerra Mondiale.
+Questa categoria di poeti si suddivide in due gruppi: il primo, rappresentato da Rupert Brooke (The Soldier), si impegnava a celebrare il patriottismo e la guerra come atto eroico, mentre il secondo, rappresentato da Wilfred Owen (Dulce et Decorum est) denunciava pesantemente gli orrori della guerra e l'inganno della propaganda.
+
+La novità della poesia di guerra della Prima guerra mondiale consisteva nell’essere opera di poeti soldati, che hanno sperimentato la guerra in prima persona, rimanendo personalmente colpiti dai suoi orrori. Alcuni dei poeti soldati sopravvissero al conflitto, ma rimasero psicologicamente e fisicamente segnati perilresto della loro vita (Siegfried Sassoon scrisse, nel 1962, Ilrancido tanfo di quei corpi ancora oggi mi perseguita), mentre altri morirono in trincea (come Wilfred Owen).
+
+### The Soldier (Ruper Brooke)
+
+Rupert Brooke (1887-1915) era già un poeta ben affermato agli inizi della guerra ed uno dei principali esponenti della cosiddetta “poesia georgiana”, allora assai apprezzato ma oggi considerato un minore e di ridotta importanza letteraria. Brooke si fece travolgere dall’entusiasmo per una guerra che, si pensava, sarebbe stata breve, indolore e lampante, e con uno stile piuttosto toccante e sentimentale mirò a glorificare la guerra e le nozioni romantiche del sacrificio e dell’eroismo.
+
+Il soldato (The Soldier) è una poesia scritta da Rupert Brooke nel 1914, durante la prima guerra mondiale, e pubblicata postuma nel 1915. Viene spesso contrapposta alla poesia di Wilfred Owen Dulce et decorum est.
+ La poesia racchiude le memorie di un soldato britannico che, con amor di patria, proclama che il suo sacrificio renderà il luogo della sua sepoltura, in eterno, un piccolo lembo di terra inglese.
+
+### Dulce et decorum est (Wilfred Owen)
+
+Nel 1917 si percepivano ormai le spaventose conseguenze della guerra e Wilfred Owen (1893-1918) cominciava a domandarsi se fosse possibile giustificare tutto il dolore e la sofferenza che lo circondavano. In seguito alle esperienze traumatiche vissute durante il suo servizio da secondo tenente nell’esercito gli venne diagnosticato lo shock da combattimento. Fu ricoverato per qualche tempo in un ospedale di guerra ad Edimburgo ma nel luglio del 1918 riprese servizio combattendo in Francia. Gli venne conferita una medaglia d’onore per il coraggio dimostrato, ma non sopravvisse abbastanza per riceverla, in quanto rimase ucciso una settimana prima dell’armistizio.
+
+Dulce et decorum est (latino: "È bello e dolce (morire per la patria)") è una poesia scritta dal poeta Wilfred Owen nel 1917, durante la prima Guerra mondiale, e pubblicata postuma nel 1920. Questa poesia è conosciuta per le orribili immagini e per la condanna della guerra.
+Se vuoi vedere testo e commento, qui: https://it.wikipedia.org/wiki/Dulce_et_decorum_est.
 
 
 
