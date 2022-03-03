@@ -488,10 +488,7 @@ Sebbene molte delle sue opere siano pervase di non pochi elementi di ispirazione
 
 Conrad scrive nel periodo che dal punto di vista delle arti visive si chiama Impressionismo, dimostrandosi uno scrittore di prosa dei più alti. La particolarità dell'universo dipinto dai suoi romanzi, paragonato ai quasi contemporanei come John Galsworthy, è legata al fatto che egli difficilmente riesce a creare il "senso di un posto", sia che sia a bordo di una nave o in un villaggio lontano. Spesso infatti sceglie di collocare i suoi personaggi in situazioni isolate o confinate. Il suo linguaggio è evocativo e, essendo l'inglese la sua terza lingua, risente l'influenza delle altre due, il polacco e il francese. Questa caratteristica dà un aspetto esotico al suo inglese che sembra insolito anche quando è grammaticalmente corretto.
 
-
-
-
-# T. S. Eliot (USA - UK)
+# T. S. Eliot (USA - UK) - Modernista
 
 Thomas Stearns Eliot, noto come T. S. Eliot (Saint Louis, 26 settembre 1888 – Londra, 4 gennaio 1965), è stato un poeta, saggista, critico letterario e drammaturgo statunitense naturalizzato britannico.
 Premiato nel 1948 con il Nobel per la letteratura.
@@ -528,7 +525,7 @@ Il "mythical method" è un metodo con cui Eliot evidenzia il contrasto tra la fe
 
 Nel saggio Ulyxes, Order and Myth (1923) Eliot scrive che il "mythical method" "è semplicemente un modo di controllare, di ordinare, di dare una forma e un significato all'immenso panorama di vanità e anarchia che è la storia contemporanea".
 
-# James Joyce (Irlanda)
+# James Joyce (Irlanda) - Modernista
 
 James Augustine Aloysius Joyce (Dublino, 2 febbraio 1882 – Zurigo, 13 gennaio 1941) è stato uno scrittore, poeta e drammaturgo irlandese.
 
@@ -550,10 +547,30 @@ Il romanzo si articola in diciotto capitoli, ognuno dei quali ha delle caratteri
 La trama è molto semplice, racconta la giornata e i pensieri di un agente pubblicitario irlandese, Leopold Bloom, in giro per Dublino, della quale Joyce riesce a dare una precisa descrizione toponomastica e topografica, soffermandosi soprattutto sullo squallore e sulla monotonia della vita dublinese.
 
 Ulisse è universalmente riconosciuto come uno dei maggiori contributi allo sviluppo del modernismo letterario.
+# Virginia Woolf (UK) - Modernista
 
+Adeline Virginia Woolf, nata Stephen (Londra, 25 gennaio 1882 – Rodmell, 28 marzo 1941), è stata una scrittrice, saggista e attivista britannica.
+Considerata come una delle principali figure della letteratura del XX secolo, attivamente impegnata nella lotta per la parità di diritti tra i sessi.
+Woolf iniziò a scrivere professionalmente già dal 1905, inizialmente solo per il supplemento letterario della rivista Times, poi come autrice di romanzi.
 
+Già in vita fu salutata come una delle più grandi romanziere del XX secolo e uno dei principali personaggi modernisti. Fu considerata una profonda innovatrice dello stile e della lingua inglesi. Nella sua opera complessiva sperimentò la tecnica del flusso di coscienza e dotò i suoi personaggi di uno straordinario potere psichico ed emotivo. La sua reputazione ebbe un forte calo dopo la seconda guerra mondiale, ma la sua fama aumentò nuovamente con l'aumento della critica femminista negli anni settanta.
 
+Il suo lavoro venne criticato per le frequenti frecciate rivolte all'intelligentia della classe media britannica. Alcuni critici ritennero che fosse privo di universalità e profondità, senza il potere di comunicare nulla di emotivo o di rilevante eticamente alle comuni lettrici e lettori stanchi degli esteti degli anni venti del novecento.
 
+## Arrività letteraria
 
+Le peculiarità individuate nel lavoro di Virginia Woolf come scrittrice di narrativa hanno oscurato la forza centrale della sua qualità stilistica: la grande liricità della sua prosa[14]. I suoi romanzi sono altamente sperimentali: un racconto, spesso banale, è rifrangente e, talvolta, quasi disciolto in caratteri di squisitamente ricettiva coscienza. Intenso liricismo e virtuosismo stilistico sono fusi per creare un mondo sovrabbondante di impressioni visive e uditive.
+
+L'intensità poetica di Virginia Woolf eleva normali impostazioni – spesso ambienti di guerra – nella maggior parte dei suoi romanzi. Ad esempio, La signora Dalloway (1925) è centrato sulla figura di Clarissa Dalloway, una donna di mezza età, e sul suo sforzo di organizzare una festa. La vicenda è però vista parallelamente a quella di Septimus Warren Smith, un veterano che è tornato dalla prima guerra mondiale con cicatrici psicologiche profonde.
+
+Gita al faro (1927) è impostato su due giorni e dieci anni. La trama ruota attorno alla famiglia Ramsay, in anticipazione alla visita a un faro e le tensioni familiari connesse. Uno dei temi principali del romanzo è la lotta nel processo creativo che affligge la pittrice Lily Briscoe (che sembra ricordare la sorella di Virginia, Vanessa Bell) mentre lotta per dipingere in mezzo al dramma familiare. Il romanzo è anche una meditazione sulla vita degli abitanti di una nazione nel mezzo di una violenta guerra[12].
+
+Le onde (1931), romanzo definito "rivoluzionario" da Marguerite Yourcenar, è l'opera in cui il suo sperimentalismo è più spinto, e presenta un gruppo di sei amici le cui riflessioni, che sono più vicine a quelle di recitativi monologhi interiori, sono volte a creare un'atmosfera che rende l'opera più simile a un poema in prosa che a un semplice romanzo. Nel suo ultimo lavoro, Tra un atto e l'altro (1941), scritto sotto i bombardamenti dell'aviazione tedesca, emerge la minaccia portata all'arte e al genere umano dalla guerra. L'opera riassume e magnifica le preoccupazioni e le ansie che afflissero Virginia Woolf: la trasformazione della vita attraverso l'arte, l'ambivalenza sessuale, e la meditazione sui temi del flusso del tempo e della vita. Si presenta simultaneamente come corrosione e ringiovanimento di tutti i temi in una narrazione straordinariamente fantasiosa e simbolica.
+
+## Stile
+
+Con le stesse tecniche operate da James Joyce in Irlanda, Marcel Proust in Francia e Italo Svevo in Italia, Virginia Woolf abbandonò la tecnica di narrazione tradizionale per svilupparne una più moderna. Eliminando la forma comune di dialogo diretto e la struttura tradizionale della trama, porta l'attenzione del romanzo al monologo interiore del soggetto preso in questione. Il tempo si differenzia per l'assenza di una cronologia precisa. La narrazione procede attraverso spostamenti in avanti e all'indietro nel tempo, assieme la maggior parte delle volte a pensieri e ricordi suscitati dall'ambiente circostante. Woolf è in grado di rappresentare lo scorrere del tempo in dodici ore (La signora Dalloway), in pochi giorni (Tra un atto e l'altro), in diversi anni (Gita al faro) o addirittura in tre secoli (Orlando).
+
+Il linguaggio si presenta particolarmente raffinato e ricercato, ricco di similitudini, metafore, assonanze, e allitterazioni usato per esprimere il flusso di coscienza. Il tempo non è visto come uno scorrere perenne bensì come una serie di momenti staccati successivamente riuniti dall'associazione di idee o dall'immaginazione. La psicologia dei vari personaggi è continuamente sfruttata nelle trame e continuamente la forma letteraria e stilistica viene alterata dall'identità della figura, in uno scambio continuo, un'attenta corrispondenza tra l'esigenza psicologica e quella linguistica.
 
 
