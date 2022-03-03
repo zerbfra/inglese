@@ -474,6 +474,23 @@ Nel 1917 si percepivano ormai le spaventose conseguenze della guerra e Wilfred O
 Dulce et decorum est (latino: "È bello e dolce (morire per la patria)") è una poesia scritta dal poeta Wilfred Owen nel 1917, durante la prima Guerra mondiale, e pubblicata postuma nel 1920. Questa poesia è conosciuta per le orribili immagini e per la condanna della guerra.
 Se vuoi vedere testo e commento, qui: https://it.wikipedia.org/wiki/Dulce_et_decorum_est.
 
+
+
+# Joseph Conrad
+
+Joseph Conrad, 3 dicembre 1857 – Bishopsbourne, 3 agosto 1924), è stato uno scrittore e navigatore polacco naturalizzato britannico.
+
+Considerato uno dei più importanti scrittori moderni in lingua inglese, Conrad è stato capace, grazie a un ricchissimo linguaggio (nonostante l'inglese fosse soltanto la sua terza lingua, dopo quella polacca materna e quella francese), di ricreare in maniera magistrale atmosfere esotiche e riflettere i dubbi dell'animo umano nel confronto con terre selvagge. È universalmente riconosciuto come uno dei grandi maestri della prosa.
+
+Sebbene molte delle sue opere siano pervase di non pochi elementi di ispirazione romantica, è considerato soprattutto un importante precursore della letteratura modernista.
+
+## Poetica
+
+Conrad scrive nel periodo che dal punto di vista delle arti visive si chiama Impressionismo, dimostrandosi uno scrittore di prosa dei più alti. La particolarità dell'universo dipinto dai suoi romanzi, paragonato ai quasi contemporanei come John Galsworthy, è legata al fatto che egli difficilmente riesce a creare il "senso di un posto", sia che sia a bordo di una nave o in un villaggio lontano. Spesso infatti sceglie di collocare i suoi personaggi in situazioni isolate o confinate. Il suo linguaggio è evocativo e, essendo l'inglese la sua terza lingua, risente l'influenza delle altre due, il polacco e il francese. Questa caratteristica dà un aspetto esotico al suo inglese che sembra insolito anche quando è grammaticalmente corretto.
+
+
+
+
 # T. S. Eliot (USA - UK)
 
 Thomas Stearns Eliot, noto come T. S. Eliot (Saint Louis, 26 settembre 1888 – Londra, 4 gennaio 1965), è stato un poeta, saggista, critico letterario e drammaturgo statunitense naturalizzato britannico.
@@ -511,9 +528,28 @@ Il "mythical method" è un metodo con cui Eliot evidenzia il contrasto tra la fe
 
 Nel saggio Ulyxes, Order and Myth (1923) Eliot scrive che il "mythical method" "è semplicemente un modo di controllare, di ordinare, di dare una forma e un significato all'immenso panorama di vanità e anarchia che è la storia contemporanea".
 
+# James Joyce (Irlanda)
 
+James Augustine Aloysius Joyce (Dublino, 2 febbraio 1882 – Zurigo, 13 gennaio 1941) è stato uno scrittore, poeta e drammaturgo irlandese.
 
+Benché la sua produzione letteraria non sia molto vasta, è stato di fondamentale importanza per lo sviluppo della letteratura del XX secolo, in particolare della corrente modernista. Soprattutto in relazione alla sperimentazione linguistica presente nelle opere, è ritenuto uno dei migliori scrittori del XX secolo e della letteratura di ogni tempo.
 
+Il suo carattere anticonformista e critico verso la società irlandese e la Chiesa cattolica traspare in opere come I Dublinesi o Gente di Dublino (Dubliners, del 1914) - palesato dalle famose epifanie - e soprattutto in Ritratto dell'artista da giovane (A Portrait of the Artist as a Young Man, nel 1917), conosciuto in Italia anche come Dedalus.
+
+Il suo romanzo più noto, Ulisse, è una vera e propria rivoluzione rispetto alla letteratura dell'Ottocento, e nel 1939 il successivo e controverso Finnegans Wake ("La veglia dei Finnegan" o più propriamente "La veglia per i Finnegan") ne è l'estremizzazione. Durante la sua vita intraprese molti viaggi attraverso l'Europa, ma l'ambientazione delle sue opere, così saldamente legata a Dublino, lo fece diventare uno dei più cosmopoliti e allo stesso tempo più locali scrittori irlandesi.
+
+## Dubliners
+
+La celebre raccolta di racconti è un sunto delle sue esperienze vissute a Dublino, della quale fa una spietata e penetrante analisi mettendo in evidenza, attraverso le famose epifanie (termine usato dallo scrittore per identificare dei particolari momenti di intuizione improvvisa presenti nella mente dei suoi personaggi; è un momento in cui un'esperienza, sepolta da anni nella memoria, sale in superficie nella mente riportando tutti i suoi dettagli e tutte le sue emozioni. In altre parole è un evento che risveglia un ricordo ormai sepolto e dimenticato), la stagnazione e la paralisi della città.
+
+## Ulisse (1922)
+
+Ulisse doveva inizialmente essere un racconto di Gente di Dublino, ma l'idea venne abbandonata.
+Il romanzo si articola in diciotto capitoli, ognuno dei quali ha delle caratteristiche peculiari nello stile, occupa una particolare ora della giornata ed è un parallelo con l'Odissea, come i personaggi stessi, che restano comunque delle parodie. Ad ogni capitolo sono associati anche un colore, un'arte o una scienza e una parte del corpo. Joyce userà anche la tecnica del flusso di coscienza (tecnica utilizzata nella narrativa; consiste nella libera rappresentazione dei pensieri di una persona così come compaiono nella mente, prima di essere riorganizzati logicamente in frasi) e si servirà di molte allusioni e citazioni storiche e letterarie, combinando così la scrittura caleidoscopica con l'estrema formalità della trama.
+
+La trama è molto semplice, racconta la giornata e i pensieri di un agente pubblicitario irlandese, Leopold Bloom, in giro per Dublino, della quale Joyce riesce a dare una precisa descrizione toponomastica e topografica, soffermandosi soprattutto sullo squallore e sulla monotonia della vita dublinese.
+
+Ulisse è universalmente riconosciuto come uno dei maggiori contributi allo sviluppo del modernismo letterario.
 
 
 
