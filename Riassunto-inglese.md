@@ -474,6 +474,46 @@ Nel 1917 si percepivano ormai le spaventose conseguenze della guerra e Wilfred O
 Dulce et decorum est (latino: "È bello e dolce (morire per la patria)") è una poesia scritta dal poeta Wilfred Owen nel 1917, durante la prima Guerra mondiale, e pubblicata postuma nel 1920. Questa poesia è conosciuta per le orribili immagini e per la condanna della guerra.
 Se vuoi vedere testo e commento, qui: https://it.wikipedia.org/wiki/Dulce_et_decorum_est.
 
+# T. S. Eliot (USA - UK)
+
+Thomas Stearns Eliot, noto come T. S. Eliot (Saint Louis, 26 settembre 1888 – Londra, 4 gennaio 1965), è stato un poeta, saggista, critico letterario e drammaturgo statunitense naturalizzato britannico.
+Premiato nel 1948 con il Nobel per la letteratura.
+Nato da una famiglia borghese statunitense, studia ad Harvard. Allo scoppio della prima guerra mondiale si trasferì a Londra dove nel 1917 trovò lavoro come impiegato presso la Lloyd's Bank e cominciò a pubblicare le prime poesie. Maturò intanto una sua conversione alla religione cristiana, cominciò a frequentare la Chiesa anglicana, convertendosi poi all'anglicanesimo.
+Dopo una travagliata riflessione, Eliot decise di separarsi dalla moglie facendola ricoverare in un istituto per malati mentali.
+
+## Modernismo
+
+L'opera di Eliot appartiene al contesto del cosiddetto modernismo, movimento sviluppatosi fra il 1912 e la seconda guerra mondiale che comprese e rivoluzionò tutte le arti. I modernisti (tra i più noti, James Joyce, Virginia Woolf, lo stesso Eliot ed Ezra Pound) denunciarono:
+
+- la crisi della cultura occidentale,
+- l'alienazione e il senso di solitudine dell'artista in un mondo scientifico,
+- il rifiuto del passato e la rottura con la tradizione.
+
+Il nome modernismo è legato particolarmente alla novità delle tecniche letterarie degli scrittori che ne facevano parte; tutti gli autori modernisti sono accomunati dal rifiuto della tradizione letteraria vittoriana (derivazione indebolita della letteratura romantica) e dal recupero della poesia del Seicento inglese (John Donne e i poeti metafisici).
+
+Al centro della pratica letteraria modernista c'è il particolare uso dell'immagine. Per i modernisti l'immagine viene intesa non più come simbolo nel senso medioevale, romantico o simbolista, ma come correlativo oggettivo, trasposizione di significati concettuali astratti in un'immagine oggettuale priva di dirette e logiche connessioni con essi, ma capace di suggerirli emotivamente.
+
+Teorizzata da Eliot, questa tecnica diviene l'unico modo di esprimere emozioni: "una serie di oggetti, una situazione, una catena di eventi che saranno la formula di quella emozione particolare; tali che quando i fatti esterni, che devono terminare in esperienza sensibile, siano dati, venga immediatamente evocata l'emozione". La poesia modernista è una poesia di immagini, temi, frammenti, segni evidenti della crisi cosmica del poeta moderno: il linguaggio discorsivo è soppresso.
+
+## Poetica
+
+Sin dalle prime poesie, Eliot accosta una critica alla vacuità e alla frivolezza della società di Boston e di Londra a visioni di lirica bellezza: il bello è abbinato allo squallido. Il disinganno politico di cui è infusa la sua poesia è da relazionarsi con lo stato di shock in cui si trovava quella generazione che aveva sprecato la propria giovinezza nella Prima guerra mondiale.
+
+I contrasti tra le leggende e i miti classici, i rituali, le bellezze antiche e lo squallore delle osterie è proposto senza alcun commento, ma con versi taglienti e duri, attraverso un'alternanza di termini aulici e colloquiali.
+
+La sua poesia propone una partecipazione dinamica e attiva, in quanto l'utilizzo dell'apparato mitologico, le citazioni da testi classici, l'uso di svariate lingue si appellano al lettore, il quale è chiamato a completare l'opera con la propria esperienza; un meccanismo, questo, che si trova anche nelle contemporanee opere di James Joyce. Eliot usa un metalinguaggio, cercando di proporre nuovi valori in un mondo in cui di fatto i criteri di credenza universalmente accettati si sono dissolti. La poesia di Eliot è modernista: non presenta, cioè, un'ordinata sequenza di pensieri o uno sviluppo logico, quanto piuttosto una serie di "fotogrammi", di frammenti non collegati l'un l'altro da connessioni logiche.
+
+Il clima culturale in cui si inserisce l'opera eliotiana è di profonda crisi esistenziale; sono ad essa contemporanee varie espressioni della condizione dell'uomo: espressionismo, cubismo, surrealismo, dadaismo, astrattismo, futurismo, esistenzialismo, relativismo in campo scientifico, sviluppo della psicoanalisi, la scoperta della divisibilità dell'atomo.
+
+### Il "mythical method"
+
+Il "mythical method" è un metodo con cui Eliot evidenzia il contrasto tra la fecondità di un mitico passato e la spirituale sterilità del mondo presente, caratterizzato dall'alienazione dell'uomo. Per Eliot i vecchi miti, pur essendo presenti, nella società moderna hanno perso il loro profondo significato, tanto che attraverso le mitiche allusioni appare il contrasto tra passato e presente. Eliot pone in contrasto l'insignificanza della vita con allusioni a vari miti del passato quali la leggenda di re Artù, la ricerca del santo Graal, metafora della ricerca della salvezza spirituale da parte dell'uomo. L'autore fa riferimento alle festività di Maggio che celebravano la rinascita della natura in primavera, ai miti dei Celti (in particolare quelli legati alla fertilità), alla leggenda del Re Pescatore nonché alla tradizione classica greca come in Waste Land dove, nel Sermone del fuoco, s'incontra la figura del vate tebano Tiresia.
+
+Nel saggio Ulyxes, Order and Myth (1923) Eliot scrive che il "mythical method" "è semplicemente un modo di controllare, di ordinare, di dare una forma e un significato all'immenso panorama di vanità e anarchia che è la storia contemporanea".
+
+
+
+
 
 
 
